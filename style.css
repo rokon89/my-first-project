@@ -1,0 +1,81 @@
+.top-center{
+    text-align: center;
+    font-weight: 800;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkviolet;
+    padding-top:20px ;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+input[type="email"]{
+    color: rgb(0, 4, 255);
+}
+
+
+.button-box{
+    background-color: rgb(10, 10, 82);
+    color: rgb(150, 205, 12);
+    border-radius: 4px;
+    margin-left:15px ;
+}
+
+.blog{
+background-color: aquamarine;
+border:8px solid rgb(8, 27, 151) ;
+border-radius:7px ;
+/* border-bottom:10px solid green ; */
+margin: 26px ;
+padding: 1ch;
+text-align:center;
+width:300px ;
+height: 200px;
+overflow:auto;
+float:none;
+box-shadow: 10px 10px 13px rgba(46, 93, 46, 0.2);
+}
+
+#pic{
+    background-image:url(islamik2.jpg);
+    background-size: cover;
+    background-position:  center ;
+}
+#input{
+    text-align:center;
+    padding-top: 25px;
+    height: 200px;
+    width: 350px;  
+    background-color: rgba(9, 76, 76, 0.7);
+    border:8px solid rgba(172, 81, 214, 0.515) ;
+    border-radius:5px;
+    margin-left:70% ;
+}
+#vip{
+    height:200 px;
+    width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
